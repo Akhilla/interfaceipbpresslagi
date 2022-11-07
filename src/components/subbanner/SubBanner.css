@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    
+}
+
+.subcontainer{
+    width: 100%;
+    height: auto;
+    background-color: #F0F0F8;
+    padding-left: 200px;
+    padding-right: 160px;
+    padding-top: 104px;
+    padding-bottom: 50px;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.cekbtn{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #1282A2;
+    border: 0;
+    color: #F0F0F8;
+    font-weight: bold;
+}
+            
+.bluetext{
+    color: #1282A2;
+}
+
+.subcontainer h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+
+.subcontainer p{
+    color: #80809E;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.subcontainer img{
+    width: 100%;
+    height: 100%;
+}
+
+.sub1{
+    width: 100%;
+    height: 500px;
+}
+
+.sub2{
+    width: 100%;
+    height: 500px;
+}
+
+.sub3{
+    width: 100%;
+    height: 500px;
+}
+
+.sub4{
+    margin-top: 100px;
+    width: 100%;
+    height: 300px;
+}
+
+.sub1text{
+    padding-top: 100px;
+    width: 50%;
+    float:left;
+}
+
+.sub1banner{
+    width: 50%;
+    float: left;
+}
+
+.sub2text{
+    margin-left: 80px;
+    padding-top: 100px;
+    width: 50%;
+    float:left;
+}
+
+.sub2banner{
+    margin-left: -80px;
+    width: 50%;
+    float: left;
+}
+
+.sub3text{
+    padding-top: 100px;
+    width: 50%;
+    float:left;
+}
+
+.sub3banner{
+    width: 50%;  
+    float: left;
+}
+
+.sub4text1{
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.sub4text2{
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.sub4text3{
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.sub4text4{
+    width: 40%;
+    height: auto;
+    float: left;
+}
+
+.icon{
+    font-size: 48px;
+    color: #1282A2;
+}
+
+.sub4 h3{
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+
+.sub4text4 p{
+    margin-top: 56px;
+}
+
+.sub5{
+    margin-top: 128px;
+    width: 100%;
+    height: 430px;
+}
+
+.sub5text{
+    width: 30%;
+    float: left;
+    height: auto;
+    padding: 40px;
+}
+
+.sub5banner{
+    width: 70%;
+    float: left;
+    height: auto;
+}

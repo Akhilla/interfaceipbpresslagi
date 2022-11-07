@@ -1,0 +1,25 @@
+.bannercontainer{
+    padding-top: 50px;
+    width: 100%;
+    flex: wrap;
+    background-color: #041A32;
+    justify-content: start;
+    
+ 
+}
+
+.pesan{
+    margin-top: -70px;
+    margin-left: -27px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #1282A2;
+    border: 0;
+    color: #F0F0F8;
+    font-size: 1rem;
+    height: 2.3rem;
+    
+}
+
+
+

@@ -1,0 +1,83 @@
+.navbar{
+    background-color:  #041A32;
+    justify-content: center;
+    padding-left: 160px;
+    padding-right: 160px;
+  }
+  
+.navbar img{
+    margin: 0;
+    width: 90px;
+    height: 80px;
+  }
+
+.searchbar{
+    margin-left: 112px;
+    
+}
+
+.navitems{
+    margin-left: 52px;
+    justify-content: end;
+}
+
+.bag{
+    margin-top: 8px;
+    font-size: 24px;
+}
+
+.navitems href{
+    color: white;
+}
+
+.loginbtn{
+    padding: 0 20 20 0px;
+    background-color: #1282A2;
+    border: 0;
+    color: #F0F0F8;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.itemss{
+    margin-left: 32px;
+    margin-top: 8px;
+}
+
+.itemss:focus{
+    border-bottom: 3px solid #1282A2;
+}
+
+.itemsbtn{
+    margin-left: 64px;
+}
+
+.bag{
+    margin-left: 30px;
+}
+
+.magnifyingglass{
+    margin-right: 16px;
+    border: none;
+}
+
+.search{
+    background-color: #041A32;
+    color: #1282A2;
+    border: none;
+    font-size: 15px;
+}
+
+.search:focus{
+    background-color: #041A32;
+    color: #F0F0F8;
+    border-bottom: 2px solid #F0F0F8;
+}
+
+.searchbar img{
+   width: 26px;
+   height: auto;
+}
+
+
+
+

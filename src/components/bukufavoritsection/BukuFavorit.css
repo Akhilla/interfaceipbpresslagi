@@ -1,0 +1,59 @@
+ .bukufavorit{
+    width: 100%;
+    background-color: white;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 104px;
+    padding-bottom: 104px;
+    justify-content: center;
+    text-align: center;
+ }
+
+.card{
+   width: 352px;
+   float: left;
+   margin-right: 32px;
+   margin-bottom: 32px;
+   color: #80809E;
+
+}
+
+.card:hover{
+   color: #F0F0F8;
+   background: #1282A2;
+   transform: translate(0rem, -1ex);
+   cursor: pointer;
+}
+
+.arrow{
+  
+   font-size: 20px;
+}
+
+.card p{
+   
+  float: left;
+   font-size: 20px;
+}
+
+.bukufavorittitle h2{
+  margin-left: 4px;
+   font-weight: 500;
+  
+}
+
+.bukufavorittext p{
+   margin-left: 4px;
+   color: #80809E;
+  
+}
+
+.favcardcontainer{
+   width: 100%;
+  margin-left: 32px;
+   height: auto;
+   margin-top: 56px;
+   justify-content: center;
+}
+
+

@@ -1,0 +1,139 @@
+.footercontainer{
+    background: #1282A2;
+    width: 100%;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px 10px 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.decoy{
+    width: 15%;
+    height: 250px;
+    float: left;
+}
+
+.footerrow1{
+    width: 100%;
+    height: 300px;
+}
+
+.footercontainer h2{
+    font-weight: bold;
+    color: #FF9900;
+    font-size: 25px;
+    margin-left: 26px;
+}
+
+.logosolusi{
+    margin-top: -10px;
+    width: 90px;
+    height: 80px;
+    margin-right: 24px;
+}
+
+.logoipb{
+    margin-top: -10px;
+    width: 90px;
+    height: 50px;
+}
+
+.footer1{
+    width: 25%;
+    float: left;
+    height: 250px;
+    margin-right: 100px;
+}
+
+.tentang{
+    width: 15%;
+    float: left;
+    height: 250px;
+   
+}
+
+.produk{
+    width: 15%;
+    float: left;
+    height: 250px;
+   
+}
+
+.bantuan{
+    width: 15%;
+    float: left;
+    height: 250px;
+   
+}
+
+.lainnya{
+    width: 15%;
+    float: left;
+    height: 250px;
+   
+}
+
+.footer1text{
+    margin-top: 56px;
+    color: #F0F0F8;
+}
+
+.footercontainer ul{
+    margin-top: 24px;
+    list-style: none;
+}
+
+.footerlink{
+    font-size: 16px;
+    color: #F0F0F8;
+    text-decoration: none;
+}
+
+.footerlink:hover{
+    color: #FF9900;
+    text-decoration: none;
+}
+
+li{
+    margin-bottom: 16px;
+}
+
+.footerrow2{
+    width: 100%;
+    height: auto;
+}
+
+.footericon ul{
+    margin-left: -32px;
+    display: flex;
+}
+
+.footericon{
+    width: 50%;
+    height: 50px;
+    float: left;
+}
+
+.copyright{
+    width: 50%;
+    height: 50px;
+    float: left;
+    color: #F0F0F8;
+}
+
+.copyright p{
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.footericon li{
+    color: #FFFFFF;
+    margin-right: 32px;
+    font-size: 24px;
+}
+
+
+
+

@@ -1,0 +1,60 @@
+.navbar{
+    background-color:  #041A32;
+    justify-content: center;
+  }
+  
+.navbar img{
+    margin: 0;
+    width: 90px;
+    height: 80px;
+  }
+
+.searchbar{
+    /* margin-left: 220px; */
+    justify-content: center;
+}
+
+.navitems{
+    /* margin-left: 120px; */
+    justify-content: end;
+}
+
+.bag{
+    font-size: 24px;
+}
+
+.navitems href{
+    color: white;
+}
+
+.loginbtn{
+    padding: 0 20 20 0px;
+    background-color: #1282A2;
+    border: 0;
+    color: #F0F0F8;
+}
+
+Container{
+    justify-content: center;
+}
+
+.search{
+    justify-content: center;
+}
+
+.navbarcontainer{
+    justify-content: space-between;
+}
+
+.brand{
+    justify-content: start;
+}
+
+.searchbarr{
+    justify-content: center;
+}
+
+.navitemscont{
+    justify-content: end;
+}
+

@@ -1,0 +1,183 @@
+.maincontent{
+    width: 100%;
+    background-color: #F0F0F8;
+    padding-top: 150px;
+    height: auto;
+    padding-left: 160px;
+    padding-right: 160px;
+    font-family: 'Open Sans', sans-serif;
+   box-sizing: border-box;
+   padding-bottom: 100px;
+}
+
+.navstitle h1{
+    font-weight: bold;
+}
+
+.koleksi{
+    color: #36404F;
+}
+
+.buku{
+  color: #1282A2;  
+}
+
+.navstitle{
+    float: left;
+    width: 30%;
+    
+
+}
+
+.navitems2{
+    float: left;
+    width: 100%;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0;   
+}
+
+.kategorih2{
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+
+.kategorilink{
+    color: #80809E;
+    margin-left: 40px;
+}
+
+.kategorilink:hover{
+    color: #1282A2;
+}
+
+.kategorilink:focus{
+    color: #1282A2;
+    border-bottom: 3px solid #1282A2;
+}
+
+.bukukategori{
+    font-size: 16px;
+    color: #80809E;
+}
+
+.lihatsemua{
+    color: #1282A2;
+}
+
+
+
+
+
+.catalogue{
+    margin-top: 80px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cardproduct{
+    background: white;
+    padding-top: 16px;
+    width: 260px;
+    height: auto;
+    margin: 16px;
+   cursor: pointer;
+   border-radius: 8px;
+}
+
+
+.card-img img{
+    width: 75%;
+    height: 200px;
+    margin-left: 30px;
+}
+
+.cardproduct h2{
+    font-weight: bold;
+    color: #36404F;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cardproduct p{
+    margin-top: 35px;
+    color: #1282A2;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cardproduct ul{
+    list-style: none;
+    display: flex;
+   margin-left: -15px;
+}
+
+.cardproduct li{
+    color: #ff9f43;
+    margin-right: 5px;
+} 
+
+.cardproduct .judul{
+    height: 40px;
+}
+
+.cardproduct:hover{
+    background-color: #1282A2;
+    transform: translate(0rem, -2ex);
+
+}
+
+.cardbottom{
+    padding-top: 16px;
+    margin-bottom: 8px;
+    background-color: white ;
+}
+
+
+/* .card{
+    margin-top: 50px;
+    background-color: white;
+    border: 0;
+    width: 20%;
+    float: left;
+    margin-right: 50px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.card img{
+    max-width: 100%;
+    height: auto;
+    margin-top: -30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: -15px;
+}
+
+.cardtitle{
+    font-weight: bold;
+    color: #36404F;
+    font-size: 2svw;
+}
+
+.cardtext{
+    margin-top: 50px;
+    color: #1282A2;
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: -38px;
+}
+
+li{
+    color: #ff9f43;
+} */
